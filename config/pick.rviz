@@ -346,7 +346,7 @@ Visualization Manager:
         Shaft Length: 0.15000000596046448
         Shaft Radius: 0.019999999552965164
         Value: Arrow
-      Topic: /turtlebot/kobuki/odom_ground_truth
+      Topic: /turtlebot/odom_ground_truth
       Unreliable: false
       Value: true
     - Alpha: 0.699999988079071
@@ -453,7 +453,7 @@ Visualization Manager:
   Views:
     Current:
       Class: rviz/Orbit
-      Distance: 2.2189462184906006
+      Distance: 7.654357433319092
       Enable Stereo Rendering:
         Stereo Eye Separation: 0.05999999865889549
         Stereo Focal Distance: 1
@@ -461,17 +461,17 @@ Visualization Manager:
         Value: false
       Field of View: 0.7853981852531433
       Focal Point:
-        X: 1.5842289924621582
-        Y: -1.2222449779510498
-        Z: 0.7744184732437134
+        X: 3.4525070190429688
+        Y: 0.66289883852005
+        Z: 0.2207731008529663
       Focal Shape Fixed Size: false
       Focal Shape Size: 0.05000000074505806
       Invert Z Axis: true
       Name: Current View
       Near Clip Distance: 0.009999999776482582
-      Pitch: 0.444797158241272
+      Pitch: 0.7297970056533813
       Target Frame: <Fixed Frame>
-      Yaw: 5.874946594238281
+      Yaw: 1.0367611646652222
     Saved: ~
 Window Geometry:
   Depth:
