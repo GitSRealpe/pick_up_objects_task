@@ -9,7 +9,7 @@
     <param name="~base_frame_id" type="string" value="turtlebot/base_link"/>
     <node pkg="octomap_server" type="octomap_server_node" name="octomap" output="screen"/>
     <node name="rqt_gui" pkg="rqt_gui" type="rqt_gui"
-        args="--perspective-file $(find turtlebot_online_path_planning)/config/kobuki_cmd.perspective">
+        args="--perspective-file $(find pick_up_objects_task)/config/kobuki_cmd.perspective">
         <remap from="robot_description" to="/turtlebot/robot_description"/>
     </node>
 </launch>
